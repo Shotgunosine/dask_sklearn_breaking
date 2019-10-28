@@ -40,7 +40,6 @@ dependencies:
   - ipywidgets=7.5.1
   - jedi=0.15.1
   - jinja2=2.10.3
-  - joblib=0.13.2
   - jpeg=9b
   - json5=0.8.5
   - jsonschema=3.1.1
@@ -144,6 +143,7 @@ dependencies:
     - dask-jobqueue==0.7.0
     - dask-labextension==1.0.3
     - idna==2.8
+    - joblib==0.14.0
     - jupyter-server-proxy==1.1.0
     - mlxtend==0.17.0
     - multidict==4.5.2
